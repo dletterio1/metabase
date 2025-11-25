@@ -21,7 +21,6 @@
 /*.mv.db
 /*.trace.db
 /.babel_cache
-/.env
 /.envrc
 /.lein-env
 /.lein-failures
@@ -163,3 +162,4 @@ CLAUDE.local.md
 
 /logs
 /.clojure-mcp
+config.bat
